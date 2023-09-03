@@ -1,6 +1,11 @@
 # hi_gui
 
 ## Installation
+- This repo
+```bash
+git clone git@github.com:hirobon1690/hi_gui --recursive
+```
+
 - rosbridge-suite
 ```bash
 sudo apt install -y ros-humble-rosbridge-suite
