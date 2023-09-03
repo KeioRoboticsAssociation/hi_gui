@@ -1,0 +1,3 @@
+[submodule "hi_gui_app"]
+	path = hi_gui_app
+	url = git@github.com:hirobon1690/hi_gui_app.git
