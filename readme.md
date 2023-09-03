@@ -14,7 +14,7 @@ sudo apt install -y ros-humble-rosbridge-suite
 - nodejs
 ```bash
 sudo apt update
-sudo apt install nodejs npm
+sudo apt install -y nodejs npm
 sudo npm -g install n
 sudo n stable
 sudo apt purge nodejs npm
